@@ -1,0 +1,17 @@
+{
+    "id": "n/a",
+    "name": "Azure Flare",
+    "author": "Aeden and Endlevel",
+    "creators": [],
+    "verifier": "n/a",
+    "verification": "https://www.youtube.com/watch?v=qp2dmvVC4Tk&ab_channel=Aeden",
+    "percentToQualify": 35,
+    "records": [ 
+      {
+            "user": "Aeden",
+            "link": "https://www.youtube.com/watch?v=VHgRQfFy9xc&ab_channel=Aeden",
+            "percent": 46,
+            "hz": "360"
+        }
+    ]
+}
