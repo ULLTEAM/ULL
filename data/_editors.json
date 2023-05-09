@@ -1,7 +1,32 @@
 [
     {
         "role": "owner",
-        "name": "Your Name Here",
-        "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
-    }
+        "name": "Niroi",
+        "link": "https://www.youtube.com/@niroigd"
+       },
+    {
+        "role": "admin",
+        "name": "Keres",
+        "link": "https://www.youtube.com/channel/UCLBnzjpMOssEmQn83EljfLA"
+          },
+    {
+        "role": "helper",
+        "name": "Grilled",
+        "link": "https://www.youtube.com/channel/UCHurLPXMhy68ExCQ704yTgA"
+         },
+    {
+        "role": "helper",
+        "name": "Lunar36",
+        "link": "https://www.youtube.com/channel/UCU-accj-R5hj2g2cYMEesmA"
+                 },
+    {
+        "role": "helper",
+        "name": "TheCatAstronaut",
+        "link": "https://www.youtube.com/channel/UCIEQMq3QFaboLHe1xS86s6Q"
+           },
+    {
+        "role": "helper",
+        "name": "TheHistorian",
+        "link": "Unknown"
+            }
 ]
