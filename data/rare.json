@@ -1,0 +1,17 @@
+{
+    "id": 81002356,
+    "name": "Rare",
+    "author": "Greafer",
+    "creators": [],
+    "verifier": "n/a",
+    "verification": "https://www.youtube.com/watch?v=YkEI-_zA7hg",
+    "percentToQualify": 9,
+    "records": [ 
+      {
+            "user": "SlendStone",
+            "link": "https://youtu.be/XGOHYNrmfo0",
+            "percent": 9,
+            "hz": "144/288"
+        }
+    ]
+}
