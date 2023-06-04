@@ -9,11 +9,7 @@
         "name": "Niroi",
         "link": "https://www.youtube.com/@niroigd"
           },
-    {
-        "role": "helper",
-        "name": "Grilled",
-        "link": "https://www.youtube.com/channel/UCHurLPXMhy68ExCQ704yTgA"
-         },
+  
     {
         "role": "helper",
         "name": "Lunar36",
@@ -28,5 +24,10 @@
         "role": "helper",
         "name": "TheHistorian",
         "link": "Unknown"
-            }
+            },
+      {
+        "role": "developer",
+        "name": "Grilled",
+        "link": "https://www.youtube.com/channel/UCHurLPXMhy68ExCQ704yTgA"
+         }
 ]
