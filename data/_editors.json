@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "Niroi",
-        "link": "https://www.youtube.com/@niroigd"
-       },
-    {
-        "role": "admin",
         "name": "Keres",
         "link": "https://www.youtube.com/channel/UCLBnzjpMOssEmQn83EljfLA"
+        },
+    {
+        "role": "admin",
+        "name": "Niroi",
+        "link": "https://www.youtube.com/@niroigd"
           },
     {
         "role": "helper",
